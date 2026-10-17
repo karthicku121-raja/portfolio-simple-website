@@ -1,11 +1,35 @@
-My Portfolio Website
+Personal Portfolio Website
 
-I have created a simple personal portfolio website using HTML and CSS. The website consists of two pages: Home and Contact.
+About the Project
 
-Home Page: Displays my name, professional role, and a short introduction.
+A simple and professional personal portfolio website developed using HTML5 and CSS3. This project is designed to showcase my personal profile and provide contact information through a clean and user-friendly interface.
 
-Contact Page: Provides my contact information so visitors can get in touch with me.
+Pages
 
-I used HTML to structure the webpages and simple CSS to design the layout, style the text, and improve the overall appearance.
+Home: Introduces my name, professional role, and a brief introduction.
 
-This project helped me learn the basics of HTML, CSS, webpage design, and navigation between pages.
+Contact: Provides contact information so visitors can get in touch with me.
+
+Technologies Used
+
+HTML5
+
+CSS3
+
+Key Features
+
+Simple and clean user interface
+
+Basic CSS styling and layout
+
+Navigation between Home and Contact pages
+
+Beginner-friendly front-end web development project
+
+Learning Outcomes
+
+Through this project, I gained practical experience in HTML page structure, CSS styling, and linking multiple webpages using navigation links.
+
+Author
+
+Karthick Raja M
